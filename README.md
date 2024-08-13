@@ -1,3 +1,3 @@
 ## Language
 
-**[English]   |   [Chinese](READMEzh_cn.md)**
+**[English]      |     [Chinese](README_zh.md)**
